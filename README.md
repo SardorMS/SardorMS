@@ -1,9 +1,9 @@
 ## Hi 👋 I am Sardor and I am:
 
 - :computer: currently I am working on my project work.
-- :man_student: graduated from university [TUIT](https://tuit.uz/en/site/index/)
-- :grin: learning **Golang** and **Python**
-- :page_with_curl: if you've got any questions, feel free to contact [me](https://t.me/SardorMS) 
+- :man_student: graduated from university [TUIT](https://tuit.uz/en/site/index/).
+- :grin: **Golang** Developer.
+- :page_with_curl: if you've got any questions, feel free to contact [me](https://t.me/SardorMS). 
 
 <!--
 **SardorMS/SardorMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
