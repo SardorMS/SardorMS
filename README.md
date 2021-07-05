@@ -5,7 +5,7 @@
 - :grin: **Golang** Backend Developer.
 - :page_with_curl: if you've got any questions, feel free to contact [me](https://t.me/SardorMS). 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${SardorMS}.${your.repo.id})
 <!--
 **SardorMS/SardorMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
