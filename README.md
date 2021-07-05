@@ -1,4 +1,4 @@
-## Hi 👋 I am Sardor and I am:
+## Hi 👋 I am Sardor:
 
 - :computer: currently I am working on my project work.
 - :man_student: graduated from university [TUIT](https://tuit.uz/en/site/index/).
