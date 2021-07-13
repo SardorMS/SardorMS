@@ -1,6 +1,5 @@
 ## Hi 👋 I am Sardor:
 
-- :computer: currently I am working on my project work.
 - :man_student: graduated from university [TUIT](https://tuit.uz/en/site/index/).
 - :grin: **Golang** Backend Developer.
 - :page_with_curl: if you've got any questions, feel free to contact [me](https://t.me/SardorMS). 
